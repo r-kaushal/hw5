@@ -1,0 +1,16 @@
+Yash Deshmukh         919293403
+Rohan Kaushal         921022950
+Eric Doan             917065921
+Yadira Delgado Díaz   919559846
+
+Steps:
+
+Open terminal, open project directory
+
+Run make (there may be an error, but it is irrelevant. The files are still generated and the code works as intended.)
+
+Using three terminal windows, run the three servers in the following order:
+
+./hw5GrandmaHome
+./hw5Forest
+./hw5Home
